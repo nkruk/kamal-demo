@@ -6,7 +6,7 @@ image: kamal-demo/kamal-demo
 
 # Deploy to these servers.
 servers:
-  - 46.101.117.10
+  - 64.226.118.120
 
 # Credentials for your image host.
 registry:
